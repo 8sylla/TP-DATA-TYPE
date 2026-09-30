@@ -2,6 +2,8 @@
 
 Travaux pratiques sur la manipulation de différents types de données (séries temporelles, audio, image, vidéo, graphes) en Python.
 
+[tp4 - data](https://drive.google.com/drive/folders/1CNV3l9jcjTTNuq3j1Vxn8Sv9nvLUB7na?usp=sharing)
+
 | Notebook | Sujet | Outils |
 |---|---|---|
 | [tp1.ipynb](tp1.ipynb) | Séries temporelles : index temporel, moyenne mobile, décomposition | pandas, statsmodels |
