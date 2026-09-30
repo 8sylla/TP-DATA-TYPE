@@ -2,6 +2,8 @@
 
 Travaux pratiques sur la manipulation de différents types de données (audio, image, vidéo) en Python.
 
+[tp4 - data](https://drive.google.com/drive/folders/1CNV3l9jcjTTNuq3j1Vxn8Sv9nvLUB7na?usp=sharing)
+
 | Notebook | Sujet | Outils |
 |---|---|---|
 | [tp2.ipynb](tp2.ipynb) | Audio : chargement, waveform, spectrogramme, ajout de bruit | librosa |
